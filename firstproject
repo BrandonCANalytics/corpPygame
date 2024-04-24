@@ -1,0 +1,7 @@
+print('Hi! Welcome to Bee Beans Coffee Brewers!')
+
+name = input('What is your name? ')
+print('Hi ' + name + '!\nHow are you!')
+
+name 
+
