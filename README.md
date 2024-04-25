@@ -10,3 +10,4 @@ When you get hit with an obstacle you start burning out and your score decreases
 ## Controls
 
 Use the left and right arrow keys to move Mister Corporate.
+
